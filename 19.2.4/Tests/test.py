@@ -1,4 +1,4 @@
-import pytest
+import pytes
 
 
 from app.calculator import Calculator
