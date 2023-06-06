@@ -1,3 +1,3 @@
 
-valid_email = "loveallpets@kz.rt"
-valid_password = "222222"
+valid_email = "your_email"
+valid_password = "your_password"
