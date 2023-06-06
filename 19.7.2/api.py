@@ -1,5 +1,5 @@
 """Модуль 19"""
-import jso
+import json
 
 import requests
 from requests_toolbelt.multipart.encoder import MultipartEncoder
